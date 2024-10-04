@@ -1335,16 +1335,18 @@
       "filterable": 1,
       "ext": "http://cms.4u4.cn/api.php/app/"
     },
-     {
-      "key": "jpys",
-      "name": "荐片┃影视(C240825)",
+    {
+      "key": "贱贱",
+      "name": "?荐片┃P2P(C241004)",
       "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://cdn.teyonds.com/js/荐片影视.js"
+      "playerType": "1",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
     },
+
 {
       "key": "黑木耳资源",
       "name": "木耳🥑蓝光",
@@ -2030,6 +2032,35 @@
 
 {"key":"光速电影","name":"光速电影","type":1,"api":"http://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","动漫电影","大陆剧","欧美剧","港澳剧","韩剧","日剧","台湾剧","泰剧","综艺","动漫","记录片"]},
    
+{"key":"csp_TV酷影","name":"🎞️TV酷影(C241004)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
+{"key":"csp_河狸影视","name":"🦛河狸影视(C241004)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.heli888.cc/api.php/app/"},
+{"key":"csp_小马影视","name":"🐎小马影视(C241004)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mas.szyyds.cn/api.php/app/"},
+
+{"key":"TV影视","name":"♎TV影视(C241004)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.ihaoyy.com/frim/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电影$28#电视剧$2#综艺$4#动漫$3"}},
+{"key":"一个影视","name":"♎一个影视(C241004)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/linklink001/tvys/raw/branch/main/json/XBPQ/一个g.json"},
+{"key":"五五影视","name":"♎五五影视(C241004)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"主页url":"https://www.5555kan.com/","简介":"+<p class=\"col-pd\"&&</p>","导演":"导演：&&</p>","主演":"主演：&&</p>","线路数组":"<h3 class=\"title\">&&/h3>","线路标题":">&&<","分类url":"https://www.5555kan.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;ak","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
+{"key":"八八影视","name":"♎八八影视(C241004)","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://m.88mv.org/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4","搜索url":"https://m.88mv.org/search/search.php?q=wd-{wd}-pg-{catePg}","嗅探词":".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4#video_mp4","过滤词":"/hls/#php"}},
+{"key":"骚火影视","name":"♎骚火影视(C241004)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/linklink001/tvys/raw/branch/main/json/XBPQ/骚火影视.json"},
+{"key":"米爱影视","name":"♎米爱影视(C241004)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/linklink001/tvys/raw/branch/main/json/XBPQ/米爱影视.json"},
+{"key":"红狐狸影视","name":"♎红狐狸影视(C241004)","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"}},
+{"key":"白嫖者联盟","name":"♎白嫖者联盟(C241004)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.6699z.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html","分类":"电影&剧集&综艺&动漫&短剧","分类值":"1&2&3&4&58","类型":"动作片$6#喜剧片$7#爱情片$8#高分经典科幻片$9#恐怖片$10#剧情片$11#战争片$12||国产剧$13#香港剧$28#恋爱不分国度$29#台湾剧$27#美国剧$31#泰国剧$33#其它剧$35||无||无||无"}},
+
+{"key":"360影视","name":"🌀360影视(C241004)","type":1,"api":"https://360zy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"火狐影视","name":"🌀火狐影视(C241004)","type":1,"searchable":0,"quickSearch":1,"filterable":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list"},
+{"key":"爱酷影视","name":"🌀爱酷影视(C241004)","type":1,"searchable":1,"quickSearch":1,"filterable":0,"api":"https://ikunzyapi.com/api.php/provide/vod/"},
+{"key":"极速影视","name":"🌀极速影视(C241004)","type":0,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jszyapi.com/api.php/provide/vod/at/xml"},
+{"key":"速播影视","name":"🌀速播影视(C241004)","type":0,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://subocaiji.com/api.php/provide/vod/at/xml"},
+{"key":"闪电影视","name":"🌀闪电影视(C241004)","type":0,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://sdzyapi.com/api.php/provide/vod/at/xml"},
+
+{"key":"hipy_js_米爱影视","name":"📽米爱影视(C241004)","type":3,"api":"https://gitea.com/linklink001/tvys/raw/branch/main/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://gitea.com/linklink001/tvys/raw/branch/main/drpy_js/米爱影视.js"},
+
+{"key":"影视预告T4","name":"✨影视预告{T4}(C241004)","type":4,"api":"https://catbox.n13.club/t4/yugaopian.php","searchable":1,"quickSea   rch":1,"filterable":1,"changeable":1,"ext":true},
+{"key":"黑狐影视T4","name":"✨黑狐影视{T4}(C241004)","type":4,"api":"https://catbox.n13.club/t4/heihu.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":true},
+{"key":"奥特影视T4","name":"✨奥特影视{T4}(C241004)","type":4,"api":"https://catbox.n13.club/t4/auete.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":true},
+{"key":"南瓜影视T4","name":"✨南瓜影视{T4}(C241004)","type":4,"api":"https://catbox.n13.club/t4/nangua.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":true},
+{"key":"采集合集T4","name":"✨采集合集{T4}(C241004)","type":4,"api":"https://catbox.n13.club/t4/caiji.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":true},
+
+
  {
       "key": "黑狐",
       "name": "🦊┃黑狐┃影视",
