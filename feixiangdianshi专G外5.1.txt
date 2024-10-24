@@ -145,8 +145,13 @@ CCTV13,http://www.yao87.com:4022/udp/239.76.246.93:1234
 
 港·澳·台,#genre#
 凤凰中文,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8$1920x1080
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8$1920x1080
 凤凰资讯,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u8         
+凤凰香港,https://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8$1920x1080
+凤凰卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
+凤凰卫视,http://211.72.65.236:8576/.m3u8
 
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
@@ -3306,8 +3311,8 @@ AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ
 熏牛头,https://vd3.bdstatic.com/mda-mipad2w74c5ve16r/hd/cae_h264_nowatermark/1632470564677186726/mda-mipad2w74c5ve16r.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655049037-0-0-e49ca33b1492c8b406181a9550448c03&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1237735318&vid=3564792331748451907&abtest=all
 盐焗鄂龟,https://vd3.bdstatic.com/mda-nd7c2f8nq4hcnrkn/480p/h264_delogo/1649407459996974581/mda-nd7c2f8nq4hcnrkn.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655036140-0-0-f311eaf138660e84836cc8ce5559e7b2&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2740696995&vid=8924502782467213214&abtest=all
 盐焗蜗牛,https://vd2.bdstatic.com/mda-mg261uczhazzbumj/hd/cae_h264_nowatermark/1625287386848136206/mda-mg261uczhazzbumj.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539042-0-0-b6d7d9647510a88457f7ce7d89a7bc53&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1642439863&vid=13411255577314359660&abtest=all
-羊肚包肉,https://vd4.bdstatic.com/mda-mk5d99p7c8mb0xg3/hd/cae_h264_delogo/1643307354471528651/mda-mk5d99p7c8mb0xg3.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655038825 -0-0-0538bfb38404c15359376e8db40765af&bcevod_channel=searchbox_feed&pd=1&cd =0&pt=3&logid=1825942656&vid=7275766357624895532&abtest=全部
-羊束肠,https://vd2.bdstatic.com/mda-ne26rr7p33rsj1y2/480p/h264_delogo/1651553280160812392/mda-ne26rr7p33rsj1y2.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655034984-0-0 -0666823b4ae21283ba2882e471b26e6b&bcevod_channel=searchbox_feed&pd=1&cd= 0&pt=3&logid=1584919948&vid=9594074250590617930&abtest=全部
+羊肚包肉,https://vd4.bdstatic.com/mda-mk5d99p7c8mb0xg3/hd/cae_h264_delogo/1643307354471528651/mda-mk5d99p7c8mb0xg3.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655038825-0-0-0538bfb38404c15359376e8db40765af&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1825942656&vid=7275766357624895532&abtest=all
+羊捆肠,https://vd2.bdstatic.com/mda-ne26rr7p33rsj1y2/480p/h264_delogo/1651553280160812392/mda-ne26rr7p33rsj1y2.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655034984-0-0-0666823b4ae21283ba2882e471b26e6b&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1584919948&vid=9594074250590617930&abtest=all
 羊肉暖锅,https://vd2.bdstatic.com/mda-mkc905af4gw0k2k4/hd/cae_h264_nowatermark/1636787396972251106/mda-mkc905af4gw0k2k4.mp4?auth_key=1655038682-0-0-ed11dc83a6da1af49e377b9c91cca7af&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1682380047&vid=2068483150629839983&abtest=all
 羊蹄血肠,https://vd2.bdstatic.com/mda-nb39vepdxvigcrjn/hd/cae_h264_nowatermark_delogo/1643960728217969923/mda-nb39vepdxvigcrjn.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037353-0-0-d21426c37711f030a5b0bafbfb2e0dce&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0353654814&vid=12816752308784095343&abtest=all
 羊杂火锅,https://vd2.bdstatic.com/mda-nde9j23ddgrpi71z/480p/h264_delogo/1650006049614014696/mda-nde9j23ddgrpi71z.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655035873-0-0-2143d9b864f19b301bedb0a00da25984&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2473527228&vid=18167929374050651526&abtest=all
