@@ -14,7 +14,6 @@
 
 {"key": "豆瓣","name": "全网影视免费看(智能机顶盒13707488633)","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 {"key":"csp_南瓜","name":"🅱️南瓜影视(机顶盒 电脑 电器维护13707488633)","type":3,"api":"csp_AppNg","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"http://ys.changmengyun.com/api.php/provide/@@荷城茶秀"},
-{"key":"csp_Kuaikan","name":"🎦快看影视(Z240726)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ttkx.jar"},
  {
       "key": "南瓜2",
       "name": "南瓜2┃影视(Z240802)",
@@ -41,7 +40,11 @@
       "jar": "http://host407776532.s1169.pppf.com.cn/app/hysxb.txt",
       "ext": "null$$$1"
     },
- {
+ 
+{"key":"1080*资源","name":"1080*资源(Z240501)","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
+{"key":"河马","name":"河马┃App秒播(C240713)","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn$$$null$$$1","jar": "./jar/pg1.jar"},
+
+{
       "key": "云星1080",
       "name": "☁️云星1080┃影视(C241018)",
       "type": 3,
@@ -157,7 +160,9 @@
         "欧美综艺"
       ]
     },
-   
+ 
+ {"key":"csp_Kuaikan","name":"🎦快看影视(Z240726)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ttkx.jar"},
+ 
 {"key": "畅梦","name": "🇹┃畅梦影视┃秒播(Z240723)","type": 3,"ua": "okhttp/3.15","api": "./lib/drpy2.min.js","ext": "https://gitee.com/fx520_1/ys/raw/main/lib/畅梦.js"},
 
 {"key":"茶狐杯","name":"🇹┃茶杯狐源┃秒播(Z240723)","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/茶狐杯.json"},
@@ -220,8 +225,6 @@
 
 {"key":"cctv","name":"🇨🇳┃央视频道┃大全(Z240723)","type":3,"api":"csp_CCTV","jar": "./lib/HeChengChaXiu7.jar","searchable":0,"filterable":0,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/央视大全.json"},
 
-{"key":"河马","name":"河马┃App秒播240713","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn$$$null$$$1","jar": "./jar/pg1.jar"},
-
 {"key": "豪华资源","name": "🥬┃豪华┃影视","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"categories": ["动画片","中国动漫","日本动漫", "欧美动漫", "剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片", "犯罪片", "内地剧","香港剧","欧美剧", "韩剧","日剧", "马泰剧","台湾剧","大陆综艺", "日韩综艺","港台综艺","欧美综艺"] },
 
 {"key":"火狐","name":"采集 | 火狐","type":1,"api":"https://hhzyapi.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["电视剧","电影","动漫","综艺"]},  
@@ -253,6 +256,11 @@
 {"key":"非凡资源","name":"🎀非凡┃采集","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 
 {"key":"橙汁","name":"🎃橙汁┃影视","type":3,"api":"csp_XBPQ","ext": {"分类":"短剧$42#电视剧$2#动漫$4#电影$1#综艺$3#纪录片$5","分类url":"https://ork.ink/show/{cateId}--------{catePg}---{year}.html"}}, {"key":"热播之家","name":"🎃热播┃影视","type":3,"api":"csp_XBPQ","ext": {"分类":"电影$1#电视剧$2#动漫$4#综艺$5","分类url":"https://rebozj.pro/type/{cateId}.html"}},
+
+{"key":"黑狐影视T4","name":"✨黑狐影视{T4}(C241004)","type":4,"api":"https://catbox.n13.club/t4/heihu.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":true},
+{"key":"奥特影视T4","name":"✨奥特影视{T4}(C241004)","type":4,"api":"https://catbox.n13.club/t4/auete.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":true},
+{"key":"南瓜影视T4","name":"✨南瓜影视{T4}(C241004)","type":4,"api":"https://catbox.n13.club/t4/nangua.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":true},
+{"key":"采集合集T4","name":"✨采集合集{T4}(C241004)","type":4,"api":"https://catbox.n13.club/t4/caiji.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":true},
 
 {"key":"csp_xBPQ_视觉","name":"🅱️视觉影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/新视觉影视.json"},
 
@@ -1812,7 +1820,7 @@
     },
      {
       "key": "贱贱",
-      "name": "?荐片┃P2P(C241004)",
+      "name": "荐片┃P2P(C241004)",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -2520,21 +2528,7 @@
 {"key":"红狐狸影视","name":"♎红狐狸影视(C241004)","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"}},
 {"key":"白嫖者联盟","name":"♎白嫖者联盟(C241004)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.6699z.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html","分类":"电影&剧集&综艺&动漫&短剧","分类值":"1&2&3&4&58","类型":"动作片$6#喜剧片$7#爱情片$8#高分经典科幻片$9#恐怖片$10#剧情片$11#战争片$12||国产剧$13#香港剧$28#恋爱不分国度$29#台湾剧$27#美国剧$31#泰国剧$33#其它剧$35||无||无||无"}},
 
-{"key":"360影视","name":"🌀360影视(C241004)","type":1,"api":"https://360zy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"火狐影视","name":"🌀火狐影视(C241004)","type":1,"searchable":0,"quickSearch":1,"filterable":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list"},
-{"key":"爱酷影视","name":"🌀爱酷影视(C241004)","type":1,"searchable":1,"quickSearch":1,"filterable":0,"api":"https://ikunzyapi.com/api.php/provide/vod/"},
-{"key":"极速影视","name":"🌀极速影视(C241004)","type":0,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jszyapi.com/api.php/provide/vod/at/xml"},
-{"key":"速播影视","name":"🌀速播影视(C241004)","type":0,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://subocaiji.com/api.php/provide/vod/at/xml"},
-{"key":"闪电影视","name":"🌀闪电影视(C241004)","type":0,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://sdzyapi.com/api.php/provide/vod/at/xml"},
-
 {"key":"hipy_js_米爱影视","name":"📽米爱影视(C241004)","type":3,"api":"https://gitea.com/linklink001/tvys/raw/branch/main/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://gitea.com/linklink001/tvys/raw/branch/main/drpy_js/米爱影视.js"},
-
-{"key":"影视预告T4","name":"✨影视预告{T4}(C241004)","type":4,"api":"https://catbox.n13.club/t4/yugaopian.php","searchable":1,"quickSea   rch":1,"filterable":1,"changeable":1,"ext":true},
-{"key":"黑狐影视T4","name":"✨黑狐影视{T4}(C241004)","type":4,"api":"https://catbox.n13.club/t4/heihu.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":true},
-{"key":"奥特影视T4","name":"✨奥特影视{T4}(C241004)","type":4,"api":"https://catbox.n13.club/t4/auete.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":true},
-{"key":"南瓜影视T4","name":"✨南瓜影视{T4}(C241004)","type":4,"api":"https://catbox.n13.club/t4/nangua.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":true},
-{"key":"采集合集T4","name":"✨采集合集{T4}(C241004)","type":4,"api":"https://catbox.n13.club/t4/caiji.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":true},
-
 
  {
       "key": "黑狐",
@@ -3003,8 +2997,6 @@
 
 {"key":"八戒*资源","name":"八戒*资源","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 
-{"key":"1080*资源","name":"1080*资源","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
-
 {"key":"快车*资源","name":"快车*资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 {"key":"量子*资源","name":"量子*资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -3376,7 +3368,7 @@
         "伦理"
       ]
     },
- {
+{
       "key": "hipy_js_啊哈DJ[听]",
       "name": "🎵DJ音乐(机顶盒 电脑 电器维护13707488633)",
       "type": 3,
@@ -3901,57 +3893,57 @@
     "mg.g1mm3d.cn",
     "mscs.svaeuzh.cn",
     "cnzz.hhttm.top",
-    "tp.vinuxhome.com",
-    "cnzz.mmstat.com",
-    "www.baihuillq.com",
-    "s23.cnzz.com",
-    "z3.cnzz.com",
-    "c.cnzz.com",
-    "stj.v1vo.top",
-    "z12.cnzz.com",
-    "img.mosflower.cn",
-    "tips.gamevvip.com",
-    "ehwe.yhdtns.com",
-    "xdn.cqqc3.com",
-    "www.jixunkyy.cn",
-    "sp.chemacid.cn",
-    "hm.baidu.com",
-    "s9.cnzz.com",
-    "z6.cnzz.com",
-    "um.cavuc.com",
-    "mav.mavuz.com",
-    "wofwk.aoidf3.com",
-    "z5.cnzz.com",
-    "xc.hubeijieshikj.cn",
-    "tj.tianwenhu.com",
-    "xg.gars57.cn",
-    "k.jinxiuzhilv.com",
-    "cdn.bootcss.com",
-    "ppl.xunzhuo123.com",
-    "xomk.jiangjunmh.top",
-    "img.xunzhuo123.com",
-    "z1.cnzz.com",
-    "s13.cnzz.com",
-    "xg.huataisangao.cn",
-    "z7.cnzz.com",
-    "xg.huataisangao.cn",
-    "z2.cnzz.com",
-    "s96.cnzz.com",
-    "q11.cnzz.com",
-    "thy.dacedsfa.cn",
-    "xg.whsbpw.cn",
-    "s19.cnzz.com",
-    "z8.cnzz.com",
-    "s4.cnzz.com",
-    "f5w.as12df.top",
-    "ae01.alicdn.com",
-    "www.92424.cn",
-    "k.wudejia.com",
-    "vivovip.mmszxc.top",
-    "qiu.xixiqiu.com",
-    "cdnjs.hnfenxun.com",
-    "cms.qdwght.com"
+    "tp.vinuxhome.com","tp.vinuxhome.com" ,
+     "cnzz.mmstat.com" ,
+     "www.baihuillq.com" ,
+     "s23.cnzz.com" ,
+     "z3.cnzz.com" ,
+     "c.cnzz.com" ,
+     "stj.v1vo.top" ,
+     "z12.cnzz.com" ,
+     "img.mosflower.cn" ,
+     "tips.gamevvip.com" ,
+     "ehwe.yhdtns.com" ,
+     "xdn.cqqc3.com" ,
+     "www.jixunkyy.cn" ,
+     "sp.chemacid.cn" ,
+     "hm.baidu.com" ,
+     "s9.cnzz.com" ,
+     "z6.cnzz.com" ,
+      "um.cavuc.com" ,
+      "mav.mavuz.com" ,
+      "wofwk.aoidf3.com" ,
+      "z5.cnzz.com" ,
+      "xc.hubeijieshikj.cn" ,
+      "tj.tianwenhu.com" ,
+      "xg.gars57.cn" ,
+      "k.jinxiuzhilv.com" ,
+      "cdn.bootcss.com" ,
+      "ppl.xunzhuo123.com" ,
+      "xomk.jiangjunmh.top" ,
+      "img.xunzhuo123.com" ,
+      "z1.cnzz.com" ,
+      "s13.cnzz.com" ,
+      "xg.huataisangao.cn" ,
+      "z7.cnzz.com" ,
+      "xg.huataisangao.cn" ,
+      "z2.cnzz.com" ,
+      "s96.cnzz.com" ,
+      "q11.cnzz.com" ,
+      "thy.dacedsfa.cn" ,
+      "xg.whsbpw.cn" ,
+      "s19.cnzz.com" ,
+      "z8.cnzz.com" ,
+      "s4.cnzz.com" ,
+      "f5w.as12df.top" ,
+      "ae01.alicdn.com" ,
+      "www.92424.cn" ,
+      "k.wudejia.com" ,
+      "vivovip.mmszxc.top" ,
+      "qiu.xixiqiu.com" ,
+    "cdnjs.hnfenxun.com","cdnjs.hnfenxun.com" ,
+    "cms.qdwght.com""cms.qdwght.com"
   
-  ]
+  ]]
 }
 
