@@ -269,8 +269,10 @@
 {"key":"csp_xBPQ_奇优","name":"奇优影院(Z240819)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/奇优影院.json"},
 
 {"key":"骚火","name":"💢骚火","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","分类":"电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>","标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"","二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接":"\"url\"*\"&&\""}},
+
 {"key":"csp_黑狐","name":"🅱️黑狐影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/黑狐影视.json"},
- {
+ 
+{
       "key": "csp_LiteApple",
       "name": "🍎苹果1080P(C241018)",
       "jar":"https://6758.kstore.space/jar/fm.jar",
@@ -782,6 +784,12 @@
       "ext": "https://yigeg.pro",
       "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
     },
+
+{"key":"360影视","name":"🌀360影视(C241102)","type":1,"api":"https://360zy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"豪华影视","name":"🌀豪华影视(C241102)","type":1,"searchable":0,"quickSearch":1,"filterable":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list"},
+{"key":"I酷影视","name":"🌀i酷影视(C241102)","type":1,"searchable":1,"quickSearch":1,"filterable":0,"api":"https://ikunzyapi.com/api.php/provide/vod/"},
+{"key":"速播影视","name":"🌀速播影视(C241102)","type":0,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://subocaiji.com/api.php/provide/vod/at/xml"},
+
 {
       "key": "cjzy_极速",
       "name": "🚀极速┃带草(C240726)",
