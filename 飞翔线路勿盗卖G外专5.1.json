@@ -216,14 +216,40 @@
 
 {"key": "索尼","name": "🎦索尼┃2K(C240723)","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/","searchable": 1,"quickSearch": 1,"ua": "okhttp/3.15","filterable": 1,"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=","categories": ["短剧","邵氏电影","爽文短剧",,"动作片", "国产剧","喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片",  "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "斯诺克"]},
 
-{"key": "py_cctv","name": "🇨🇳┃央视大全┃影仓(Z240723)","ua": "okhttp/3.15","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/fx520_1/ys/raw/main/lib/cctv.py"},
+{"key":"cctv",
+"name":"🇨🇳央视频道大全(Z241102)",
+"type":3,
+"api":"csp_CCTV",
+"searchable":0,
+"filterable":0,
+"ext":"https://notabug.org/FX520/FX/raw/main/lib/央视大全.json"},
 
-{"key": "央视经典","name": "🇨🇳┃央视经典┃影视(C240723)","type": 3,"api": "csp_Bili","jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
-"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=央视经典"},
+{"key": "py_cctv",
+"name": "🇨🇳央视大全(Z241102)",
+"type": 3,
+"api": "py_cctv",
+"searchable": 0,
+"quickSearch": 0,
+"filterable": 1,
+"ext": "https://notabug.org/FX520/FX/raw/main/lib/py_cctv.json"},
 
-{"key":"py_cctvdc","name":"🇨🇳┃央视片库┃影仓(C240723)","type":3,"api":"py_cctv","jar": "./lib/HeChengChaXiu7.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/tvtg/888/-/raw/main/json/py_cctvdc.json"},
-
-{"key":"cctv","name":"🇨🇳┃央视频道┃大全(Z240723)","type":3,"api":"csp_CCTV","jar": "./lib/HeChengChaXiu7.jar","searchable":0,"filterable":0,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/央视大全.json"},
+{"key":"py_cctvdc",
+"name":"🇨🇳央视片库(Z241102)",
+"type":3,
+"api":"py_cctv",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"https://notabug.org/FX520/FX/raw/main/lib/py_cctvdc.json"},
+     
+ { "key": "央视经典",
+ "name": "🇨🇳央视经典(Z241102)",
+ "type": 3,
+ "api": "csp_Bili",
+ "searchable": 0,
+ "quickSearch": 1,
+ "filterable": 1,
+ "ext": "https://notabug.org/FX520/FX/raw/main/lib/哔哩经典.json" },
 
 {"key": "豪华资源","name": "🥬┃豪华┃影视","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"categories": ["动画片","中国动漫","日本动漫", "欧美动漫", "剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片", "犯罪片", "内地剧","香港剧","欧美剧", "韩剧","日剧", "马泰剧","台湾剧","大陆综艺", "日韩综艺","港台综艺","欧美综艺"] },
 
@@ -3550,7 +3576,7 @@
 
 {"key":"AliYunPan","name":"🅱️阿里云盘|T设置","type":3,"api":"csp_AliYunPan","searchable":0,"filterable":0,"ext":"b4242bebe6f144d3aa6a2cd842ac65aa"},
 {"key":"wogg","name":"🅱️玩偶阿里|T追剧","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/玩偶哥哥.json"},
-{"key": "UpYun","name": "(241018更新)","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
+{"key": "UpYun","name": "(241102更新)","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
 
 ],
 
