@@ -216,6 +216,197 @@
 
 {"key": "索尼","name": "🎦索尼┃2K(C240723)","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/","searchable": 1,"quickSearch": 1,"ua": "okhttp/3.15","filterable": 1,"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=","categories": ["短剧","邵氏电影","爽文短剧",,"动作片", "国产剧","喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片",  "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "斯诺克"]},
 
+  {
+      "key": "农民影视",
+      "name": "农民┃高清影视(C241119)",
+      "type": 3,
+      "api": "csp_Nmys",
+      "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+ {
+      "key": "布蕾",
+      "name": "布蕾┃高清影视(C241119)",
+      "type": 3,
+      "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "http://47.99.102.252/drpy_js/bulei.js"
+    },
+ {
+      "key": "小熊弹幕",
+      "name": "小熊┃高清影视(C241119)",
+      "type": 3,
+      "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+      "ext": "http://47.99.102.252/drpy_js/%E5%B0%8F%E7%86%8A.js"
+    },
+  {
+      "key": "dianyiPQ",
+      "name": "先生┃高清影视(C241119)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://git.acwing.com/hogo18/hh/-/raw/main/jar/xpq.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "分类url": "https://xn--44qz85a01qpc.com/pianku-{cateId}-{class}-{by}-{area}-{lang}----{catePg}---{year}.html",
+        "分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman",
+        "影片年代": "<div class=\"module-info-tag\">&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "搜索url": "https://xn--44qz85a01qpc.com/search--------------.html?wd={wd}",
+        "简介": "尤东风友情提醒🔺勿信广告，避免受骗🔺+style=\"line-height: 20px;\"&&</div>",
+        "线路数组": "data-dropdown-value=&&</div>[不包含:QI节点#QT节点#KU节点]",
+        "线路标题": "玉玉软件库💠+<span>&&</span>[排序:TK>HD>XS>YI>DI>]"
+      }
+    },
+ {
+      "key": "91電影網",
+      "name": "91┃高清影视(C241119)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "gb2312",
+        "主页url": "http://m.aogetu.com/",
+        "播放数组": "plau-ul-list&&</ul>",
+        "播放列表": "<a&&a>",
+        "播放链接": "href='&&'",
+        "播放标题": "_blank\">&&<",
+        "嗅探词": "index.m3u8?",
+        "分类url": "http://m.aogetu.com/{cateId}/{class}/index{catePg}.html[http://m.aogetu.com/{cateId}/{class}/]",
+        "分类": "电影$dianying#电视剧$dianshiju#综艺娱乐$zongyiyule#动漫$dongmandonghua",
+        "剧情": "动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#纪录片$jilupian#动画$dhdy||国产剧$guochanju#欧美剧$oumeiju#香港剧$hongkongju#韩国剧$hanguoju#台湾剧$taiwanju#日本剧$ribengju#泰国剧$taiguoju#海外剧$haiwaiju#微短剧$duanju||大陆综艺$daluzongyi#香港综艺$hongkongzongyi#台湾综艺$taiwanzongyi#日韩综艺$rihanzongyi#欧美综艺$oumeizongyi#其他综艺$qitazongy||日本动漫$ribendongman#国产动漫$guochandonghua#欧美动漫$oumeidongman#韩国动漫$hanguodongman#其他动漫$qitadongman"
+      }
+    },
+   {
+      "key": "南瓜高清影视",
+      "name": "南瓜┃高清影视(C241119)",
+      "type": 3,
+      "api": "csp_Nangua",
+      "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
+      "key": "fxz欢视",
+      "name": "欢视┃高清影视(C241119)",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "http://47.99.102.252/jar/c.jar",
+      "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
+    },
+  {
+      "key": "热播高清影视",
+      "name": "热播┃高清影视(C241119)",
+      "type": 3,
+      "api": "csp_AppRB",
+      "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
+      "key": "kuying",
+      "name": "酷酷┃高清影视(C241119)",
+      "type": 3,
+      "api": "csp_App",
+      "jar": "https://gitdl.cn/https://github.com/yuyu10245/yuyu/blob/master/jar/xc09.zip",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "KhYJ00ye42lr+7UsoxLsfea0p0H5SUkT7Tv/+ACyPvFQ+ozQDB0SI/NCeN59w0RiNzIKjBHQR9I/4GBIAlWmFKcvyM+yqtiPTwaxfs74YG+PHrb7VfKDLVFb0luKJl2gZ5pIVjIwVQNUCt5TAXutZxNBtlKGin+L/4vCsOIjR2r16dqyQwlpOKySq4NGGkKeA48tTxR+emOxn/qGPt5xjInFeLJXMvYxdp47pOKOA4Oj4LJnJ+ezEzScDoT2IASN0Rvl2ZneGEGkqlDU8NquYUP/svq1zScEYCpobKdg0ILB7Hba+5cMwtlnjGiHyCaM9dx+z+cVzD9cSTo/aL5gSoAPT4QzkFxezSARli9nVDmnS0MrY/NhiexS8AE+1et9"
+    },
+ {
+      "key": "天天高清影视",
+      "name": "天天┃高清影视(C241119)",
+      "type": 3,
+      "api": "csp_AppTT",
+      "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+ {
+      "key": "荐片高清弹幕",
+      "name": "荐片┃高清影视(C241119)",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+  {
+      "key": "追剧高清影视",
+      "name": "追剧┃高清影视(C241119)",
+      "type": 3,
+      "api": "csp_AppZJ",
+      "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://z.kzjtv.com/"
+    },
+  {
+      "key": "花姐影院",
+      "name": "花姐┃高清影视(C241119)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "数组": "fed-lazy&&</a>",
+        "副标题": "fed-text-center\">&&</span",
+        "简介": "fed-matp-v\">&&</div",
+        "线路数组": "href=\"\\#playlist&&</li>",
+        "线路标题": "</i>&&</a>",
+        "播放数组": "<ul class=\"myui-content__list&&</ul",
+        "跳转播放链接": "var now=\"&&\"",
+        "搜索url": "https://www.huajie2.com/search.php?page={pg}&searchword={wd}&searchtype=",
+        "分类url": "https://www.huajie2.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
+        "分类": "电视剧&电影&综艺&动漫",
+        "分类值": "2&1&3&4"
+      }
+    },
+  {
+      "key": "New6v",
+      "name": "6V┃高清影视(C241119)",
+      "type": 3,
+      "api": "csp_New6v",
+      "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.xb6v.com"
+    },
+   {
+      "key": "墨白影视",
+      "name": "💎墨白高清快播(C241119)",
+      "type": 1,
+      "api": "https://nm.xxxc137.top/api.php/provide/vod/"
+    },
+
 {"key":"cctv",
 "name":"🇨🇳央视频道大全(Z241102)",
 "type":3,
