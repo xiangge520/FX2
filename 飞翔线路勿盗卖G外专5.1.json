@@ -1,4 +1,4 @@
-{
+{{
 
 "warningText":"你好 飞翔专属 请勿盗卖",    
 
@@ -216,6 +216,16 @@
 
 {"key": "索尼","name": "🎦索尼┃2K(C240723)","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/","searchable": 1,"quickSearch": 1,"ua": "okhttp/3.15","filterable": 1,"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=","categories": ["短剧","邵氏电影","爽文短剧",,"动作片", "国产剧","喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片",  "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "斯诺克"]},
 
+ {
+      "key": "三米ys",
+      "name": "🎦三米影视(C241127)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "http://www.9-here.com/index.php/s/S-id-{cateId}-{catePg}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}.html[http://www.9-here.com/index.php/t/S-{cateId}-{catePg}.html]",
+        "分类": "电影$movie#连续剧$drama#动漫$comic#综艺$tvshow"
+      }
+    },
   {
       "key": "农民影视",
       "name": "农民┃高清影视(C241119)",
@@ -343,7 +353,7 @@
     },
  {
       "key": "荐片高清弹幕",
-      "name": "荐片┃高清影视(C241119)",
+      "name": "💎荐片┃高清影视(C241119)",
       "type": 3,
       "api": "csp_Jianpian",
       "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
@@ -2045,7 +2055,7 @@
     },
      {
       "key": "贱贱",
-      "name": "荐片┃P2P(C241004)",
+      "name": "💎荐片┃P2P(C241004)",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -3593,6 +3603,16 @@
         "伦理"
       ]
     },
+  {
+      "key": "DG音乐仓",
+      "name": "飞翔音乐(机顶盒 电脑 电器维护13707488633)",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://gitee.com/fx520_1/ys/raw/main/lib/ych.json"
+    },
 {
       "key": "hipy_js_啊哈DJ[听]",
       "name": "🎵DJ音乐(机顶盒 电脑 电器维护13707488633)",
@@ -3767,7 +3787,7 @@
 
 {"key":"AliYunPan","name":"🅱️阿里云盘|T设置","type":3,"api":"csp_AliYunPan","searchable":0,"filterable":0,"ext":"b4242bebe6f144d3aa6a2cd842ac65aa"},
 {"key":"wogg","name":"🅱️玩偶阿里|T追剧","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/玩偶哥哥.json"},
-{"key": "UpYun","name": "(241102更新)","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
+{"key": "UpYun","name": "(241128更新)","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
 
 ],
 
