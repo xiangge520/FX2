@@ -2156,16 +2156,6 @@
       "changeable": 0,
       "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/高中.json"
     },
-{
-      "key": "中医",
-      "name": "💓急救┃教学(机顶盒 电脑 电器维护13707488633)",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitee.com/fx520_1/ys/raw/main/lib/中医.json"
-    },
 
 {"key": "UpYun","name": "(250406更新)","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
 
