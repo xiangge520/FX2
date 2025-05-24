@@ -20,6 +20,30 @@
 "quickSearch": 0,
 "filterable": 0
 },
+{
+"key": "南瓜",
+"name": "💖南瓜┃影视(Z241230)",
+"type": 3,
+"api": "csp_NanGua",
+"playerType": 2,
+"searchable": 1,
+"quickSearch": 1,
+"changeable": 1
+},
+{
+        "key": "猫咪资源",
+        "name": "💖猫咪┃采集(C250406)",
+        "type": 1,
+        "api": "http://zy.xiaomaomi.cc/api.php/provide/vod"
+  },
+  {      "key": "速博资源",     
+            "name": "💖速播┃采集(C250219)",    
+            "type": 1,     
+             "api": "https://subocaiji.com/api.php/provide/vod/",   
+              "playUrl": "",    
+              "searchable": 1,    
+              "quickSearch": 1   
+   }, 
  {
       "key": "ttys",
       "name": "💖天天┃影视(C250206)",
@@ -156,20 +180,6 @@
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },  
 {
-        "key": "猫咪资源",
-        "name": "💖猫咪┃采集(C250406)",
-        "type": 1,
-        "api": "http://zy.xiaomaomi.cc/api.php/provide/vod"
-  },
-  {      "key": "速博资源",     
-            "name": "💖速播┃采集(C250219)",    
-            "type": 1,     
-             "api": "https://subocaiji.com/api.php/provide/vod/",   
-              "playUrl": "",    
-              "searchable": 1,    
-              "quickSearch": 1   
-   }, 
-{
       "key": "qysp",
       "name": "💖奇艺┃高清(Z250406)",
       "type": 3,
@@ -291,17 +301,6 @@
 {"key":"木叶","name":"💖木叶┃影视(Z250222)","type":3,"api":"csp_Xdai","playerType":2,"ext":"saHR0cDovL3d3dy56amMuYXBwfGFiNGU5YTQyMTY3NWYxNGJ8YWI0ZTlhNDIxNjc1ZjE0Ynw0NDI="},
 {"key":"来看影视","name":"💖来看┃影视(Z250222)","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1},
 
-
-{
-"key": "南瓜",
-"name": "💖南瓜┃影视(Z241230)",
-"type": 3,
-"api": "csp_NanGua",
-"playerType": 2,
-"searchable": 1,
-"quickSearch": 1,
-"changeable": 1
-},
 {
 "key": "zxzj",
 "name": "💖在线┃外剧(C241230)",
@@ -1744,7 +1743,7 @@
 "ext": "./js/采集之王[合].js?type=url&params=../sub/采集静态.json"
 },
 {
-"key": "zycj_天天",
+"key": "zycj_1080",
 "name": "💖1080┃影视(C241230)",
 "type": 1,
 "searchable": 1,
@@ -2160,7 +2159,7 @@
       "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/高中.json"
     },
 
-{"key": "UpYun","name": "💖(250406更新)","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
+{"key": "UpYun","name": "💖数据┃更新(250406)","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
 
 ],
 
