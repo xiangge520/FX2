@@ -20,6 +20,43 @@
 "quickSearch": 0,
 "filterable": 0
 },
+ {
+  "key": "zycj_1080",
+  "name": "💖1080┃采集(C250609)",
+  "type": 1,
+  "searchable": 1,
+  "changeable": 1,
+  "api": "https://1080zyk3.com/inc/apijson.php",
+  "playUrl": "",
+  "categories": [
+   "国产剧",
+   "动作片",
+   "喜剧片",
+   "科幻片",
+   "恐怖片",
+  "爱情片",
+  "剧情片",
+  "战争片",
+  "记录片",
+  "动画片",
+  "欧美剧",
+  "香港剧",
+  "韩国剧",
+  "台湾剧",
+  "日本剧",
+  "海外剧",
+  "泰国剧",
+  "国产动漫",
+  "日韩动漫",
+  "欧美动漫",
+  "港台动漫",
+  "海外动漫",
+  "大陆综艺",
+ "港台综艺",
+ "日韩综艺",
+  "欧美综艺"
+  ]
+  }, 
 {
 "key": "南瓜",
 "name": "💖南瓜┃影视(Z241230)",
@@ -1742,21 +1779,6 @@
 "order_num": 0,
 "ext": "./js/采集之王[合].js?type=url&params=../sub/采集静态.json"
 },
-{
-"key": "zycj_1080",
-"name": "💖1080┃影视(C241230)",
-"type": 1,
-"searchable": 1,
-"changeable": 1,
-"api": "https://api.1080zyku.com/inc/apijson.php",
-"playUrl": "",
-"categories": [
-"国产剧",
-"国产动漫",
-"韩国剧",
-"大陆综艺"
-]
-}, 
 {"key":"天空资源",
 "name":"💖天空┃影视(C241230)",
 "type":1,
@@ -2093,73 +2115,8 @@
  {"key":"csp_FirstAid","name":"💖急救┃教学(机顶盒 电脑 电器维护13707488633)
    ","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"jar":"http://www.lyyytv.cn/yt/yt.jar","style":{"type":"rect","ratio":3.8},"gridview":"0-0-4.1"}, 
 
- {
-      "key": "meowtv_etqm",
-      "name": "💓儿童┃启蒙(机顶盒 电脑 电器维护13707488633)",
-      "type": 3,
-      "api": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/api/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/启蒙.js"
-    },
-    {
-      "key": "meowtv_dtgx",
-      "name": "💓灯塔┃国学(机顶盒 电脑 电器维护13707488633)",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/国学.json"
-    },
-    {
-      "key": "meowtv_sejy",
-      "name": "💓少儿┃教育(机顶盒 电脑 电器维护13707488633)",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/儿童.json"
-    },
-    {
-      "key": "meowtv_xxkt",
-      "name": "💓小学┃课堂(机顶盒 电脑 电器维护13707488633)",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/小学.json"
-    },
-    {
-      "key": "meowtv_czkt",
-      "name": "💓初中┃课堂(机顶盒 电脑 电器维护13707488633)",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/初中.json"
-    },
-    {
-      "key": "meowtv_gzkt",
-      "name": "💓高中┃课堂(机顶盒 电脑 电器维护13707488633)",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/高中.json"
-    },
 
-{"key": "UpYun","name": "💖数据┃更新(250406)","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
+{"key": "UpYun","name": "💖数据┃更新(250609)","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
 
 ],
 
