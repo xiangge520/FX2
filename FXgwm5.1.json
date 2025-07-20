@@ -4,7 +4,7 @@
   "logo":"./s.gif",
    "lives":[{"name":"live",
     "type":0,
-    "url":"https://notabug.org/HG520/YS/raw/main/feixiangdianshi4.1.txt",
+    "url":"https://assdf.mohuajz.eu.org/heihuaDS4.1.txt",
     "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/bingimg/logo/{name}.png"}
   
@@ -111,7 +111,12 @@
         "playerType": 2,
         "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
       },  
-  
+   {
+      "key": "魔爪影视",
+      "name": "💖魔爪┃采集(C250720)",
+      "type": 1,
+      "api": "https://mozhuazy.com/api.php/provide/vod/" 
+    },
    {
         "key": "zycj_暴風",
         "name": "💖暴風┃影视(C250506)",
@@ -183,7 +188,13 @@
         "type": 1,
         "api": "https://yjtv.top/api.php/provide/vod"
       },
- 
+  {
+      "key": "无尽影视",
+      "name": "💖无尽┃采集(C250720)",
+      "type": 1,
+      "api": "https://api.wujinapi.com/api.php/provide/vod"
+    },
+
   {"key":"移动云盘","name":"💖移动┃影视(Z241230)","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1},
   
   {"key":"蝴蝶","name":"💖蝴蝶┃影视(Z241230)","type":3,"api":"csp_Hudie","playerType":2,"ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w"},
