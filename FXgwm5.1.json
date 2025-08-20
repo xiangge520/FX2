@@ -117,7 +117,14 @@
       "type": 1,
       "api": "https://mozhuazy.com/api.php/provide/vod/" 
     },
-   {
+     {
+        "key": "人人APP",
+        "name": "💖人人┃采集(C250506)",
+        "type": 1,
+        "api": "https://www.rrys.lv/api.php/provide/vod"
+      },
+
+{
         "key": "zycj_暴風",
         "name": "💖暴風┃影视(C250506)",
         "type": 1,
@@ -135,12 +142,7 @@
         "type": 1,
         "api": "http://www.subozy.com/api.php/provide/vod/"
       },
-  {
-        "key": "人人APP",
-        "name": "💖人人┃采集(C250506)",
-        "type": 1,
-        "api": "https://www.rrys.lv/api.php/provide/vod"
-      },
+
     {
           "key": "黑墙影视",
           "name": "💖黑墙┃采集(C250506)",
@@ -166,16 +168,6 @@
     "type": 1,
     "api": "https://1080zyk3.com/inc/apijson.php"
     },  
-     {
-          "key": "看影秒播",
-          "name": "💖看影┃采集(C250506)",
-          "type": 3,
-          "api": "csp_Kuaikan",
-          "searchable": 1,
-          "quickSearch": 1,
-          "jar": "http://host407776532.s1169.pppf.com.cn/app/hysxb.txt",
-          "filterable": 1
-        },
   {
   "key": "免费影视",
   "name": "💖免费┃影视(C241230)",
@@ -194,6 +186,32 @@
       "type": 1,
       "api": "https://api.wujinapi.com/api.php/provide/vod"
     },
+  {
+  "key":"量子",
+  "name":"💖量子┃影视(C241230)",
+  "type": 0,
+  "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/"
+  },
+  {
+  "key":"非凡",
+  "name":"💖非凡┃影视(C241230)",
+  "type": 0,
+  "api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/"
+  },
+   {
+  "key": "cjzy_极速",
+  "name": "💖极速┃影视(C241230)",
+  "type": 1,
+  "api": "https://www.jisuzy.com/api.php/provide/vod/from/jsm3u8/"
+  },
+  
+  {
+  "key": "阿里影视",
+  "name": "💖阿里┃影视(C241230)",
+  "type": 1,
+  "api": "https://alivod.com/api.php/provide/vod/"
+  },
+
 
   {"key":"移动云盘","name":"💖移动┃影视(Z241230)","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1},
   
@@ -303,8 +321,6 @@
   
   {"key":"糯米弹幕","name":"💖糯米┃弹幕(Z250222)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
   
-  {"key":"荐片弹幕","name":"💖荐片┃弹幕(Z241230)","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-  
   {"key":"荐片","name":"💖荐片┃影视(Z241230)","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
   
   {"key":"快看影视","name":"💖快看┃影视(Z241230)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -320,18 +336,6 @@
   {"key":"来看影视","name":"💖来看┃影视(Z250222)","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1},
   
   
-  {
-  "key":"量子",
-  "name":"💖量子┃影视(C241230)",
-  "type": 0,
-  "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/"
-  },
-  {
-  "key":"非凡",
-  "name":"💖非凡┃影视(C241230)",
-  "type": 0,
-  "api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/"
-  },
    {
   "key": "闪电资源",
   "name": "💖闪电┃采集(C241230)",
@@ -362,20 +366,26 @@
   "type": 1,
   "api": "https://heimuer.tv/api.php/provide/vod/"
   },
-   {
-  "key": "cjzy_极速",
-  "name": "💖极速┃影视(C241230)",
-  "type": 1,
-  "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/"
-  },
-  
-  {
-  "key": "阿里影视",
-  "name": "💖阿里┃影视(C241230)",
-  "type": 1,
-  "api": "https://alivod.com/api.php/provide/vod/"
-  },
-  
+     {
+      "key": "鸭鸭影视",
+      "name": "💖鸭鸭┃采集(C250820)",
+      "type": 1,
+      "api": "https://yayazy2.com/api.php/provide/vod/" 
+    },
+
+{
+      "key": "可视影视",
+      "name": "💖可视┃采集(C250820)",
+      "type": 1,
+      "api": "https://www.ketv.cc/api.php/provide/vod/" 
+    },
+ {
+      "key": "舒渡影视",
+      "name": "💖舒渡┃采集(C250820)",
+      "type": 1,
+      "api": "https://zyz.sdys.love/api.php/provide/vod/" 
+    },
+
   
   {
         "key": "如意资源",
@@ -1087,13 +1097,7 @@
           "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
           "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/追剧迷.js"
         },
-   {
-          "key": "drpy_js_B站影视",
-          "name": "💖B站┃影视(C250406)",
-          "type": 3,
-          "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-          "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/B站影视.js"
-        },
+
      {
           "key": "drpy_js_哔哩影视",
           "name": "💖哔哩┃影视(C250406)",
@@ -1101,13 +1105,7 @@
           "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
           "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"
         },
-    {
-          "key": "drpy_js_69美剧",
-          "name": "💖69┃美剧(C250406)",
-          "type": 3,
-          "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-          "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/69美剧.js"
-        },
+
     {
           "key": "drpy_js_看了么",
           "name": "💖看了┃影视(C250406)",
@@ -1128,17 +1126,6 @@
     
   {"key":"百度资源","name":"💖百度┃资源(C250406)","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
   
-  {
-  "key": "hipy_js_采集之王[合]0",
-  "name": "💖采集┃影视(Z241230)",
-  "type": 3,
-  "api": "./js/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "./js/采集之王[合].js?type=url&params=../sub/采集静态.json"
-  },
   {
   "key": "HG影视",
   "name": "💖皇冠┃影视(C241230)",
@@ -1178,8 +1165,70 @@
    {"key":"csp_FirstAid","name":"💖急救┃教学(机顶盒 电脑 电器维护13707488633)
      ","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"jar":"http://www.lyyytv.cn/yt/yt.jar","style":{"type":"rect","ratio":3.8},"gridview":"0-0-4.1"}, 
   
-  
-  {"key": "UpYun","name": "💖数据┃更新(250621)","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
+  {
+       "key": "NoSearch_csp_BBB",
+       "name": "💖哔哩┃合集(机顶盒 电脑 电器维护13707488633)",
+       "type": 3,
+       "api": "csp_Bili",
+       "searchable": 1,
+       "quickSearch": 0,
+       "filterable": 1,
+       "ext": "naHR0cHM6Ly93d3cucWlhb2ppOC5jb20vdHZib3gvYmlsaS5qc29u"
+     },  
+    
+   {
+       "key": "qydh",
+       "name": "💖奇艺┃动画(机顶盒 电脑 电器维护13707488633)",
+       "type": 3,
+       "api": "./lib/drpy2.min.js",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": "http://www.meowtv.cn/js/meow.php?file=qydh"
+     },
+     {
+       "key": "txdh",
+       "name": "💖腾讯┃动画(机顶盒 电脑 电器维护13707488633)",
+       "type": 3,
+       "api": "./lib/drpy2.min.js",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": "http://www.meowtv.cn/js/meow.php?file=txdh"
+     },
+     {
+       "key": "mgdh",
+       "name": "💖芒果┃动画(机顶盒 电脑 电器维护13707488633)",
+       "type": 3,
+       "api": "./lib/drpy2.min.js",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": "http://www.meowtv.cn/js/meow.php?file=mgdh"
+     },
+     {
+       "key": "tqss",
+       "name": "💖童趣┃搜视(机顶盒 电脑 电器维护13707488633)",
+       "type": 3,
+       "api": "./lib/drpy2.min.js",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": "http://www.meowtv.cn/js/meow.php?file=tqss"
+     },
+     {
+       "key": "etqm",
+       "name": "💖儿童┃启蒙(机顶盒 电脑 电器维护13707488633)",
+       "type": 3,
+       "api": "./lib/drpy2.min.js",
+       "searchable": 0,
+       "quickSearch": 0,
+       "changeable": 0,
+       "ext": "http://www.meowtv.cn/js/meow.php?file=etqm"
+     },
+
+ 
+  {"key": "UpYun","name": "💖数据┃更新(250820)","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
   
   ],
   
@@ -1196,7 +1245,7 @@
            "url": "Sequence"
          },
   
-  {"name":"影趣",  "url":"https://yingqu.icu/dpplay/?url="},
+  {"name":"影趣",  "url":"https://yingqu1.com/dpplay/?url="},
   
   {
            "name": "高清",
@@ -1277,16 +1326,14 @@
             }
           }
         } ,
-  
-  { "name": "虾米", "type": 0,"url":"https://jx.xmflv.com/?url="  },
-  
+ 
   {"name":"瓜子","url":"https://www.xnmvod.cc/?url="},
-  
+
+  { "name": "虾米", "type": 0,"url":"https://jx.xmflv.com/?url="  },
+    
   {"name":"如意","url":"https://ryplayer.com?url="},
   
-  {"name":"华为","url":"https://player.hw8.lol/player?url="},
-  
-  {"name": "web聚合","type": 3,"url": "Web"}],    
+  {"name":"华为","url":"https://player.hw8.lol/player?url="}],    
   
   "flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩" ,"wasu", "seven", "m78"],
      
