@@ -123,7 +123,14 @@
         "type": 1,
         "api": "https://www.rrys.lv/api.php/provide/vod"
       },
-
+  {
+        "key": "魔都资源",
+        "name": "💖魔都┃采集(C250621)",
+        "type": 1,
+        "api": "https://moduzy2.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+      },
 {
         "key": "zycj_暴風",
         "name": "💖暴風┃影视(C250506)",
@@ -204,7 +211,36 @@
   "type": 1,
   "api": "https://www.jisuzy.com/api.php/provide/vod/from/jsm3u8/"
   },
-  
+       {
+            "key": "思古电影",
+            "name": "💖思古┃采集(C250829)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://siguyy.cn/api.php/app/"
+        },
+ {
+            "key": "牛牛资源",
+            "name": "💖牛牛┃采集(C250829)",
+            "type": 1,
+            "api": "https://api.niuniuzy.me/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playurl": "https://jiexi.niuniuzy.org/m3u8/?url="
+            
+        },
+   {
+           "key":"天涯影视",
+           "name":"💖天涯┃采集(C250829)",
+           "type":0,
+           "api":"https://tyyszyapi.com/api.php/provide/vod/at/xml/?ac=list",
+           "playUrl":"https://tyyszywjx.com/?url=",
+           "searchable":1,
+           "quickSearch":1,
+            "categories":1
+},
   {
   "key": "阿里影视",
   "name": "💖阿里┃影视(C241230)",
@@ -396,14 +432,6 @@
         "quickSearch": 1
       },
   
-  {
-        "key": "魔都资源",
-        "name": "💖魔都┃采集(C250621)",
-        "type": 1,
-        "api": "https://moduzy2.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
-      },
   {
         "key": "一周资源",
         "name": "💖一周┃采集(C250621)",
@@ -1165,16 +1193,6 @@
    {"key":"csp_FirstAid","name":"💖急救┃教学(机顶盒 电脑 电器维护13707488633)
      ","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"jar":"http://www.lyyytv.cn/yt/yt.jar","style":{"type":"rect","ratio":3.8},"gridview":"0-0-4.1"}, 
   
-  {
-       "key": "NoSearch_csp_BBB",
-       "name": "💖哔哩┃合集(机顶盒 电脑 电器维护13707488633)",
-       "type": 3,
-       "api": "csp_Bili",
-       "searchable": 1,
-       "quickSearch": 0,
-       "filterable": 1,
-       "ext": "naHR0cHM6Ly93d3cucWlhb2ppOC5jb20vdHZib3gvYmlsaS5qc29u"
-     },  
     
    {
        "key": "qydh",
@@ -1330,7 +1348,15 @@
   {"name":"瓜子","url":"https://www.xnmvod.cc/?url="},
 
   { "name": "虾米", "type": 0,"url":"https://jx.xmflv.com/?url="  },
-    
+   
+  {"name":"云解","type": 0,"url":"https://yparse.ik9.cc/index.php?url="},
+
+  {"name":"DM","type":0,"url":"https://dmplay.knowhub.vip/d?url="},
+
+  {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
+
+  {"name":"七七","type":0,"url":"https://jx.77flv.cc/?url="},  
+  
   {"name":"如意","url":"https://ryplayer.com?url="},
   
   {"name":"华为","url":"https://player.hw8.lol/player?url="}],    
