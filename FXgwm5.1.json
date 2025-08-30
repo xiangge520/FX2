@@ -1,5 +1,5 @@
 {
-  "spider":"./JAR/kg.txt",
+  "spider":"https://assdf.mohuajz.eu.org/JAR/kg.txt",
   "wallpaper": "./cici.jpg",
   "logo":"./s.gif",
    "lives":[{"name":"live",
@@ -238,8 +238,7 @@
            "api":"https://tyyszyapi.com/api.php/provide/vod/at/xml/?ac=list",
            "playUrl":"https://tyyszywjx.com/?url=",
            "searchable":1,
-           "quickSearch":1,
-            "categories":1
+           "quickSearch":1
 },
   {
   "key": "阿里影视",
@@ -1357,7 +1356,7 @@
 
   {"name":"七七","type":0,"url":"https://jx.77flv.cc/?url="},  
   
-  {"name":"如意","url":"https://ryplayer.com?url="},
+  {"name":"如意","url":"https://ryplayer.com/?url="},
   
   {"name":"华为","url":"https://player.hw8.lol/player?url="}],    
   
