@@ -1,5 +1,5 @@
 {
-  "spider":"https://assdf.mohuajz.eu.org/JAR/kg.txt",
+  "spider":"./JAR/kg.txt",
   "wallpaper": "./cici.jpg",
   "logo":"./s.gif",
    "lives":[{"name":"live",
@@ -246,6 +246,18 @@
   "type": 1,
   "api": "https://alivod.com/api.php/provide/vod/"
   },
+   {
+        "key": "雨哥影视",
+        "name": "💖雨哥┃采集(C250901)",
+        "type": 1,
+        "api": "http://cj.baozi66.top:66/api.php/provide/vod/"
+      },
+   {
+        "key": "天翼资源",
+        "name": "💖天翼┃采集(C250901)",
+        "type": 1,
+        "api": "https://www.911ysw.top/tianyi.php/provide/vod/"
+      },
 
 
   {"key":"移动云盘","name":"💖移动┃影视(Z241230)","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1},
