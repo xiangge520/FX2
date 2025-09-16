@@ -121,7 +121,7 @@
         "key": "人人APP",
         "name": "💖人人┃采集(C250506)",
         "type": 1,
-        "api": "https://www.rrys.lv/api.php/provide/vod"
+        "api": "https://www.ylys.tv/api.php/provide/vod"
       },
   {
         "key": "魔都资源",
@@ -147,7 +147,7 @@
         "key": "速播蓝光",
         "name": "💖速播┃蓝光(C250506)",
         "type": 1,
-        "api": "http://www.subozy.com/api.php/provide/vod/"
+        "api": "https://subocaiji.com/api.php/provide/vod/"
       },
 
     {
@@ -265,6 +265,66 @@
   {"key":"蝴蝶","name":"💖蝴蝶┃影视(Z241230)","type":3,"api":"csp_Hudie","playerType":2,"ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w"},
   
   
+{
+"key":"搜索",
+"name":"💖聚搜┃影视(C250916)",
+"type":3,
+"api":"csp_qiao2",
+"playerType":2,
+"jar":"https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
+},
+{
+"key":"明星",
+"name":"💖明星┃影视(C250916)",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"https://alicliimg.clewm.net/342/790/68790342/175492501342882a47a74800c50acc8fee173f0038fe31754925012.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
+"ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e",
+"请求头":"User-Agent$MOBILE_UA",
+"编码":"UTF-8","分类url":"https://mxvod.com/"}
+},
+{
+"key":"永乐",
+"name":"💖永乐┃影视(C250916)",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"https://alicliimg.clewm.net/342/790/68790342/175492501342882a47a74800c50acc8fee173f0038fe31754925012.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
+"ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e",
+"请求头":"User-Agent$MOBILE_UA",
+"编码":"UTF-8","分类url":"https://www.ylys.tv/"}
+},
+{
+"key":"忘忧草",
+"name":"💖忧草┃影视(C250916)",
+"type":3,"api":"csp_XBPQ",
+"jar":"https://alicliimg.clewm.net/342/790/68790342/175492501342882a47a74800c50acc8fee173f0038fe31754925012.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
+"ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e",
+"请求头":"User-Agent$MOBILE_UA",
+"编码":"UTF-8","分类url":"https://www.myripon.com/"}
+},
+{
+"key":"小鸭",
+"name":"💖小鸭┃影视(C250916)",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"https://alicliimg.clewm.net/342/790/68790342/175492501342882a47a74800c50acc8fee173f0038fe31754925012.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
+"ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e",
+"请求头":"User-Agent$MOBILE_UA",
+"编码":"UTF-8","分类url":"https://777tv.ai/;;!H"}
+},
+{
+"key":"4K live",
+"name":"💖飞翔┃影视(C250916)",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"https://alicliimg.clewm.net/342/790/68790342/175492501342882a47a74800c50acc8fee173f0038fe31754925012.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
+"ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e",
+"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8",
+"分类url":"https://4k4k.live/;;!"}
+},
+
+
+
   {
         "key": "qysp",
         "name": "💖奇艺┃高清(Z250406)",
@@ -1167,7 +1227,7 @@
   
   {
   "key": "HG影视",
-  "name": "💖皇冠┃影视(C241230)",
+  "name": "💖HG┃影视(C241230)",
   "type": 1,
   "api": "https://hong.hgyx.vip/api.php/provide/vod/",
   "searchable": 1,
@@ -1257,7 +1317,7 @@
      },
 
  
-  {"key": "UpYun","name": "💖数据┃更新(250820)","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
+  {"key": "UpYun","name": "💖数据┃更新(250916)","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
   
   ],
   
