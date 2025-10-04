@@ -56,7 +56,23 @@
         "ext": "daHR0cDovL3YubGt1eXMuY24=",
         "jar": "http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"
       },
-   {
+     {
+      "key": "魔爪影视",
+      "name": "💖魔爪┃采集(C250720)",
+      "type": 1,
+      "api": "https://mozhuazy.com/api.php/provide/vod/" 
+    },
+  {
+        "key": "魔都资源",
+        "name": "💖魔都┃采集(C250621)",
+        "type": 1,
+        "api": "https://moduzy2.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+      },
+ 
+
+{
 "key":"搜索",
 "name":"💖聚搜┃影视(C250916)",
 "type":3,
@@ -64,6 +80,7 @@
 "playerType":2,
 "jar":"https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
 },
+ {"key":"移动云盘","name":"💖移动┃影视(Z241230)","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1},
    
 {
         "key": "hkys",
@@ -99,29 +116,7 @@
         "filterable": 1,
         "ext": "https://gitee.com/fx520_1/ys/raw/main/lib/影院蓝光.json"
       },
-   
- {"key":"移动云盘","name":"💖移动┃影视(Z241230)","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1},
- 
-   {
-      "key": "魔爪影视",
-      "name": "💖魔爪┃采集(C250720)",
-      "type": 1,
-      "api": "https://mozhuazy.com/api.php/provide/vod/" 
-    },
-     {
-        "key": "人人APP",
-        "name": "💖人人┃视频(C250506)",
-        "type": 1,
-        "api": "https://www.ylys.tv/api.php/provide/vod"
-      },
-  {
-        "key": "魔都资源",
-        "name": "💖魔都┃采集(C250621)",
-        "type": 1,
-        "api": "https://moduzy2.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
-      },
+    
 {
         "key": "zycj_暴風",
         "name": "💖暴風┃影视(C250506)",
@@ -138,15 +133,9 @@
         "key": "速播蓝光",
         "name": "💖速播┃蓝光(C250506)",
         "type": 1,
-        "api": "https://subocaiji.com/api.php/provide/vod/"
+        "api": "https://subocj.com/api.php/provide/vod"
       },
 
-    {
-          "key": "黑墙影视",
-          "name": "💖黑壳┃采集(C250506)",
-          "type": 1,
-          "api": "https://blackwallvideo.online/api.php/provide/vod/"   
-    },  
   {
          "key":"豪华",
           "name":"💖豪华┃采集(C250506)",
@@ -455,7 +444,7 @@
   "api": "https://cjhwba.com/api.php/provide/vod/"
   },
   {
-  "key": "黑木耳资源采集",
+  "key": "黑木耳",
   "name": "💖木耳┃影视(C241230)",
   "type": 1,
   "api": "https://heimuer.tv/api.php/provide/vod/"
@@ -472,12 +461,6 @@
       "name": "💖可视┃采集(C250820)",
       "type": 1,
       "api": "https://www.ketv.cc/api.php/provide/vod/" 
-    },
- {
-      "key": "舒渡影视",
-      "name": "💖舒渡┃采集(C250820)",
-      "type": 1,
-      "api": "https://zyz.sdys.love/api.php/provide/vod/" 
     },
 
   
@@ -513,6 +496,37 @@
 "api":"https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
 "searchable":1,
 "quickSearch":1
+},
+{
+"key":"纽约影视",
+"name":"💖纽约┃影视(C251004)",
+"type":3,
+"api":"csp_XBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>",
+"图片":"data-src=\"&&\"",
+"线路数组":"a class=\"swiper-slide&&</a>[排序:国内节点>国内专线>\u516c\u5b50\u4e13\u5c5e-2>\u516c\u5b50\u4e13\u5c5e-3]",
+"\u7ebf\u8def\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e-+>&&</span>",
+"播放数组":"anthology-list-play&&</ul>",
+"搜索模式":1,
+"搜索url":"https://nycvod.com/vodsearch/{wd}----------{pg}---.html",
+"搜索标题":"alt=\"&&\"",
+"搜索图片":"data-src=\"&&\"",
+"分类url":"https://nycvod.com/vodshow/{cateId}--------{catePg}---.html",
+"分类":"电影$28#电视剧$24#综艺$31#动漫$26","免嗅":"1"}
+},
+{
+"key":"七七",
+"name":"💖七七┃影视(C251004)",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"https://alicliimg.clewm.net/342/790/68790342/175492501342882a47a74800c50acc8fee173f0038fe31754925012.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
+"ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e",
+"请求头":"User-Agent$MOBILE_UA",
+"编码":"UTF-8",
+"分类url":"https://www.5277kp.com/"}
 },
 
   {
@@ -1238,7 +1252,7 @@
     
   {"key":"百度资源","name":"💖百度┃资源(C250406)","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
  
-  {"key":"hg","name":"🇨🇳HG┃影视(C240825)","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","分类url":"https://hong.hgyx.vip/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#剧集$2#综艺$3#动漫$4"}},
+  {"key":"hg","name":"💖HG┃影视(C240825)","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","分类url":"https://hong.hgyx.vip/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#剧集$2#综艺$3#动漫$4"}},
 
   {
         "key": "歪片┃星球",
@@ -1271,7 +1285,6 @@
           "分类": "电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian"
         }
       },
-  {"key":"hg","name":"💖HG┃影视(C240825)","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","分类url":"https://hong.hgyx.vip/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#剧集$2#综艺$3#动漫$4"}},
 
   {"key":"TV影视","name":"💖TV┃影视(C241004)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.ihaoyy.com/frim/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电影$28#电视剧$2#综艺$4#动漫$3"}},
 
@@ -1283,7 +1296,19 @@
 "ext": {"分类url": "https://www.maigo.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/",
 "分类": "电影$84#综艺$91#大陆剧$81#港台剧$82#海外剧$83#纪录片$88#动漫$1#日剧$32#日漫$46#国漫$47#美漫$85"}
 }, 
-
+  {
+      "key": "csp_XBPQ_vstv",
+      "name": "💖VS┃影院(C251004)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
+      }
+    },
  {
 "key":"热播之家",
 "name":"💖热播┃影视(C250922)",
@@ -1372,7 +1397,7 @@
      },
 
  
-  {"key": "UpYun","name": "💖数据┃更新(250922)","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
+  {"key": "UpYun","name": "💖数据┃更新(251004)","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
   
   ],
   
