@@ -70,8 +70,6 @@
         "searchable": 1,
         "quickSearch": 1
       },
- 
-
 {
 "key":"搜索",
 "name":"💖聚搜┃影视(C250916)",
@@ -1145,7 +1143,170 @@
           "filterable": 1,
           "ext": "https://www.xb6v.com"
         },
-      
+  
+   {
+      "key": "紫金影视",
+      "name": "💖紫金┃影视(C251007)",
+      "type": 1,
+      "api": "https://www.zjcvod.com//api.php/provide/vod/"
+    },
+   {
+      "key": "忆梦影视",
+      "name": "💖忆梦┃影视(C251007)",
+      "type": 1,
+      "api": "https://gnpt.net/api.php/provide/vod/"
+    },
+   {
+      "key": "四个圈影视",
+      "name": "💖四圈┃影视(C251007)",
+      "type": 1,
+      "api": "https://pg.fenwe078.cf/api.php/provide/vod/?ac=list"
+    },
+
+    {
+      "key": "团夕影视",
+      "name": "💖团夕┃影视(C251007)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://jxfmax.juxiafan.com/icciu_api.php/v1.vod"
+    },
+    {
+      "key": "爆炸",
+      "name": "💖爆炸┃影视(C251007)",
+      "type": 3,
+      "api": "csp_Muou",
+      "ext": "7lj763gg402i79425i3l85i6h848i295l5hiji5l828g3l3jjhg6kg7410lhjkqiaojij3ig1lg475178k7h0il4ig3h753h7hi516758699jh2g5h433li30gk11g73l90312h4g7",
+      "jar": "https://moguyun.ognai.com/api/shares/Y3OTQwM/files/e07d1c3b-eb5b-497e-8373-3dc1a7926cf5;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10"
+    },
+    {
+      "key": "奥迪",
+      "name": "💖奥迪┃影视(C251007)",
+      "type": 3,
+      "jar": "https://assdf.mohuajz.eu.org/lib/HeChengChaXiu.jar",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://moguyun.ognai.com/api/shares/AzNTk4M/files/3759313f-66ee-4093-b561-8a8e0ae1f9c2"
+    },
+    {
+      "key": "电影蜜蜂",
+      "name": "💖蜜蜂┃影视(C251007)",
+      "type": 3,
+      "jar": "https://assdf.mohuajz.eu.org/lib/HeChengChaXiu.jar",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://moguyun.ognai.com/api/shares/AzODc2M/files/68cffe4e-0b96-4b21-afbd-0244873d10ea"
+    },
+    {
+      "key": "TVB云播",
+      "name": "💖TB┃云播(C251007)",
+      "type": 3,
+      "jar": "https://assdf.mohuajz.eu.org/lib/HeChengChaXiu.jar",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://moguyun.ognai.com/api/shares/g3MTg4O/files/81528fb6-38b0-458a-89cc-cb802f5c1b0a"
+    },
+ 
+    {
+      "key": "旗星",
+      "name": "💖旗星┃影视(C251007)",
+      "type": 3,
+      "jar": "https://moguyun.ognai.com/api/shares/g2Mzg2M/files/57f99be2-8ba6-428e-9c1d-591ff6f4b386",
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://ys.qist.top",
+        "site": "",
+        "dataKey": "2SWSPFxugBLPPOKo",
+        "dataIv": "2SWSPFxugBLPPOKo",
+        "deviceId": "",
+        "version": "120"
+      }
+    },
+    {
+      "key": "狐狸",
+      "name": "💖狐狸┃影视(C251007)",
+      "type": 3,
+      "jar": "https://moguyun.ognai.com/api/shares/g2Mzg2M/files/57f99be2-8ba6-428e-9c1d-591ff6f4b386",
+      "api": "csp_XBPQ",
+      "ext": "https://moguyun.ognai.com/api/shares/U1MjY4N/files/8d4f45b9-cd02-4df1-8fba-a977f8b1e2cf"
+    },
+    {
+      "key": "皮皮圈",
+      "name": "💖皮圈┃影视(C251007)",
+      "type": 3,
+      "jar": "https://moguyun.ognai.com/api/shares/I2NzA1M/files/9aa0022a-ba92-4b59-882a-19fd2034ca28",
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "简介：&&</p>",
+        "图片": "data-echo=\"&&\"",
+        "线路数组": "javascript&&</li>",
+        "分类url": "https://www.pipiquan.cc/type/{cateId}-{catePg}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+      }
+    },
+    {
+      "key": "鲸鱼",
+      "name": "💖鲸鱼┃影视(C251007)",
+      "type": 3,
+      "jar": "https://moguyun.ognai.com/api/shares/Y5MTY3M/files/fb354dfe-315f-44cc-811f-8e43d8c727cb",
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "",
+        "site": "https://assdf.mohuajz.eu.org/lib/1.json",
+        "dataKey": "AAdgrdghjfgswerA",
+        "dataIv": "AAdgrdghjfgswerA",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
+      "key": "闪影视界",
+      "name": "💖闪影┃影视(C251007)",
+      "type": 3,
+      "jar": "https://moguyun.ognai.com/api/shares/k3MDUzN/files/948a74cf-c779-4814-a650-7bdb2ebafa7c",
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "剧集",
+        "综艺",
+        "动漫",
+        "短剧",
+        "VIP"
+      ],
+      "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
+    },
+    {
+      "key": "海纳TV",
+      "name": "💖海纳┃TV(C251007)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://lz.qaiu.top/d/lz/i0fR72vesc2f",
+      "ext": {
+        "主页url": "https://hainatv.net/",
+        "分类url": "https://hainatv.net/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$59#解说$64"
+      }
+    },
+    {
+      "key": "低端影视",
+      "name": "💖低端┃影视(C251007)",
+      "type": 3,
+      "api": "csp_Ddys",
+      "jar": "https://lz.qaiu.top/d/lz/i5MYu2p7cxoj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+  
   {"key": "py_cctv",
     "name": "💖央视┃大全(Z2502406)",
     "type": 3,
@@ -1252,7 +1413,7 @@
     
   {"key":"百度资源","name":"💖百度┃资源(C250406)","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
  
-  {"key":"hg","name":"💖HG┃影视(C240825)","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","分类url":"https://hong.hgyx.vip/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#剧集$2#综艺$3#动漫$4"}},
+  {"key":"hg","name":"🇨🇳HG┃影视(C240825)","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","分类url":"https://hong.hgyx.vip/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#剧集$2#综艺$3#动漫$4"}},
 
   {
         "key": "歪片┃星球",
@@ -1397,7 +1558,7 @@
      },
 
  
-  {"key": "UpYun","name": "💖数据┃更新(251004)","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
+  {"key": "UpYun","name": "💖数据┃更新(251007)","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
   
   ],
   
@@ -1503,6 +1664,8 @@
   {"name":"云解","type": 0,"url":"https://yparse.ik9.cc/index.php?url="},
 
   {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
+
+  {"name":"BT","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},    
 
   {"name":"七七","type":0,"url":"https://jx.77flv.cc/?url="},  
   
