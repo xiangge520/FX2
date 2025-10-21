@@ -1,39 +1,39 @@
 {
-  "spider":"./JAR/kg.txt",
-  "wallpaper": "./cici.jpg",
-  "logo":"./s.gif",
-   "lives":[{"name":"live",
-    "type":0,
-    "url":"https://assdf.mohuajz.eu.org/heihuaDS4.1.txt",
+  "蜘蛛":"./JAR/kg.txt",
+  "壁纸": "./cici.jpg",
+  "标志":"./s.gif",
+   "生活":[{"名字":"直播",
+    "类型":0,
+    "链接":"https://assdf.mohuajz.eu.org/heihuaDS4.1.txt",
     "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-    "logo":"https://epg.112114.xyz/bingimg/logo/{name}.png"}
+    "标志":"https://epg.112114.xyz/bingimg/logo/{name}.png"}
   
-  ],
+  ]，
   
-  "sites":[
+  "网站":[
   {
-  "key":"豆瓣",
-  "name":"电脑-电器维修 影视APP-智能盒子专卖(13707488633)",
-  "type": 3,
-  "api": "csp_Douban",
-  "searchable": 0,
-  "quickSearch": 0,
-  "filterable": 0
+  "键":"豆瓣",
+  "名称":"电脑-电器维修 影视APP-智能盒子专卖(13707488633)",
+  "类型": 3,
+  "api": "csp_豆瓣",
+  "可搜索的": 0,
+  "快速搜索"：0，
+  "可过滤的": 0
   },
   {
-  "key": "南瓜",
-  "name": "💖南瓜┃影视(Z241230)",
-  "type": 3,
-  "api": "csp_NanGua",
-  "playerType": 2,
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1
+  "键": "南瓜",
+  "名字": "💖南瓜┃影视(Z241230)",
+  "类型": 3,
+  "api"："csp_南瓜"，
+  "玩家类型": 2,
+  "可搜索的": 1,
+  "快速搜索"：1，
+  "可变的"：1
   },
    
   {
-        "key": "ttys",
-        "name": "💖天天┃影视(C250206)",
+        "键": "ttys",
+        "名称": "💖天天┃影视(C250206)",
         "type": 3,
         "api": "csp_TTian",
         "searchable": 1,
